@@ -1,0 +1,2356 @@
+# depslib dependency file v1.0
+1534402184 source:f:\sdl\game\game\main.cpp
+	"game.h"
+	"Menue.h"
+	"level1.h"
+
+1534397892 f:\sdl\game\game\include\game.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	<Player.h>
+	"Wall.h"
+	"Monster.h"
+	"Key.h"
+	"Door.h"
+	"Hud.h"
+
+1534582600 source:f:\sdl\game\game\src\game.cpp
+	"game.h"
+
+1534348574 f:\sdl\game\game\include\player.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Gun.h"
+
+1534235443 source:f:\sdl\game\game\src\player.cpp
+	"Player.h"
+
+1534259519 f:\sdl\game\game\direction.h
+	<bits/stdc++.h>
+
+1534581989 source:f:\sdl\game\game\src\bullet.cpp
+	"Bullet.h"
+
+1534341845 f:\sdl\game\game\include\bullet.h
+	"Portal.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+
+1534346239 source:f:\sdl\game\game\src\gun.cpp
+	"Gun.h"
+
+1534345697 f:\sdl\game\game\include\gun.h
+	"Bullet.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Slash.h"
+
+1534327948 source:f:\sdl\game\game\src\wall.cpp
+	"Wall.h"
+
+1534328040 f:\sdl\game\game\include\wall.h
+	<SDL.h>
+	<SDL_image.h>
+	"player.h"
+
+1534582213 source:f:\sdl\game\game\src\monster.cpp
+	"Monster.h"
+
+1534347783 f:\sdl\game\game\include\monster.h
+	"Gun.h"
+
+1534174618 source:f:\sdl\game\game\src\door.cpp
+	"Door.h"
+
+1534174841 f:\sdl\game\game\include\door.h
+	"Player.h"
+
+1534171436 source:f:\sdl\game\game\src\key.cpp
+	"Key.h"
+
+1534170171 f:\sdl\game\game\include\key.h
+	<SDL.h>
+	<SDL_image.h>
+	"Portal.h"
+
+1534235106 f:\sdl\game\game\include\portal.h
+	<SDL.h>
+	<SDL_image.h>
+	"../direction.h"
+
+1534582239 source:f:\sdl\game\game\src\portal.cpp
+	"Portal.h"
+
+1534403386 source:f:\sdl\game\game\src\menue.cpp
+	"Menue.h"
+
+1534399503 f:\sdl\game\game\include\menue.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"PlayButton.h"
+	"game.h"
+
+1534400732 source:f:\sdl\game\game\src\playbutton.cpp
+	"PlayButton.h"
+
+1534399357 f:\sdl\game\game\include\playbutton.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1534350299 source:f:\sdl\game\game\src\hud.cpp
+	"Hud.h"
+
+1534350299 f:\sdl\game\game\include\hud.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1534402392 source:f:\sdl\game\game\src\level1.cpp
+	"Level1.h"
+
+1534395795 f:\sdl\game\game\include\level1.h
+	"game.h"
+
+1534582266 source:f:\sdl\game\game\src\slash.cpp
+	"Slash.h"
+
+1534348381 f:\sdl\game\game\include\slash.h
+	"Bullet.h"
+
+1534581989 source:c:\users\lenovo\desktop\source files\src\bullet.cpp
+	"Bullet.h"
+
+1534844984 c:\users\lenovo\desktop\source files\include\bullet.h
+	"Portal.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+
+1534235106 c:\users\lenovo\desktop\source files\include\portal.h
+	<SDL.h>
+	<SDL_image.h>
+	"../direction.h"
+
+1534259519 c:\users\lenovo\desktop\source files\direction.h
+	<bits/stdc++.h>
+
+1534174618 source:c:\users\lenovo\desktop\source files\src\door.cpp
+	"Door.h"
+
+1534174841 c:\users\lenovo\desktop\source files\include\door.h
+	"Player.h"
+
+1534348574 c:\users\lenovo\desktop\source files\include\player.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Gun.h"
+
+1534345697 c:\users\lenovo\desktop\source files\include\gun.h
+	"Bullet.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Slash.h"
+
+1534348381 c:\users\lenovo\desktop\source files\include\slash.h
+	"Bullet.h"
+
+1534869152 source:c:\users\lenovo\desktop\source files\src\game.cpp
+	"game.h"
+
+1534869152 c:\users\lenovo\desktop\source files\include\game.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	<Player.h>
+	"Wall.h"
+	"Monster.h"
+	"Key.h"
+	"Door.h"
+	"Hud.h"
+
+1534328040 c:\users\lenovo\desktop\source files\include\wall.h
+	<SDL.h>
+	<SDL_image.h>
+	"player.h"
+
+1534347783 c:\users\lenovo\desktop\source files\include\monster.h
+	"Gun.h"
+
+1534170171 c:\users\lenovo\desktop\source files\include\key.h
+	<SDL.h>
+	<SDL_image.h>
+	"Portal.h"
+
+1534869152 c:\users\lenovo\desktop\source files\include\hud.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1534844739 source:c:\users\lenovo\desktop\source files\src\gun.cpp
+	"Gun.h"
+
+1534869355 source:c:\users\lenovo\desktop\source files\src\hud.cpp
+	"Hud.h"
+
+1534171436 source:c:\users\lenovo\desktop\source files\src\key.cpp
+	"Key.h"
+
+1534402392 source:c:\users\lenovo\desktop\source files\src\level1.cpp
+	"Level1.h"
+
+1534395795 c:\users\lenovo\desktop\source files\include\level1.h
+	"game.h"
+
+1534403386 source:c:\users\lenovo\desktop\source files\src\menue.cpp
+	"Menue.h"
+
+1534399503 c:\users\lenovo\desktop\source files\include\menue.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"PlayButton.h"
+	"game.h"
+
+1534399357 c:\users\lenovo\desktop\source files\include\playbutton.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1534844938 source:c:\users\lenovo\desktop\source files\src\monster.cpp
+	"Monster.h"
+
+1534400732 source:c:\users\lenovo\desktop\source files\src\playbutton.cpp
+	"PlayButton.h"
+
+1534868365 source:c:\users\lenovo\desktop\source files\src\player.cpp
+	"Player.h"
+
+1534582239 source:c:\users\lenovo\desktop\source files\src\portal.cpp
+	"Portal.h"
+
+1534327948 source:c:\users\lenovo\desktop\source files\src\wall.cpp
+	"Wall.h"
+
+1534868534 source:c:\users\lenovo\desktop\source files\main.cpp
+	"game.h"
+	"Menue.h"
+	"level1.h"
+
+1534841599 source:c:\users\lenovo\desktop\source files\src\slash.cpp
+	"Slash.h"
+
+1535305089 source:f:\sdl\game\source files\src\bullet.cpp
+	"Bullet.h"
+
+1534844984 f:\sdl\game\source files\include\bullet.h
+	"Portal.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+
+1534235106 f:\sdl\game\source files\include\portal.h
+	<SDL.h>
+	<SDL_image.h>
+	"../direction.h"
+
+1534259519 f:\sdl\game\source files\direction.h
+	<bits/stdc++.h>
+
+1534174618 source:f:\sdl\game\source files\src\door.cpp
+	"Door.h"
+
+1534174841 f:\sdl\game\source files\include\door.h
+	"Player.h"
+
+1535304879 f:\sdl\game\source files\include\player.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Gun.h"
+
+1534345697 f:\sdl\game\source files\include\gun.h
+	"Bullet.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Slash.h"
+
+1535306550 f:\sdl\game\source files\include\slash.h
+	"Bullet.h"
+
+1535304714 source:f:\sdl\game\source files\src\game.cpp
+	"game.h"
+
+1534869152 f:\sdl\game\source files\include\game.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	<Player.h>
+	"Wall.h"
+	"Monster.h"
+	"Key.h"
+	"Door.h"
+	"Hud.h"
+
+1534328040 f:\sdl\game\source files\include\wall.h
+	<SDL.h>
+	<SDL_image.h>
+	"player.h"
+
+1534347783 f:\sdl\game\source files\include\monster.h
+	"Gun.h"
+
+1534170171 f:\sdl\game\source files\include\key.h
+	<SDL.h>
+	<SDL_image.h>
+	"Portal.h"
+
+1534869152 f:\sdl\game\source files\include\hud.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1535305332 source:f:\sdl\game\source files\src\gun.cpp
+	"Gun.h"
+
+1535306486 source:f:\sdl\game\source files\src\hud.cpp
+	"Hud.h"
+
+1534171436 source:f:\sdl\game\source files\src\key.cpp
+	"Key.h"
+
+1534402392 source:f:\sdl\game\source files\src\level1.cpp
+	"Level1.h"
+
+1534395795 f:\sdl\game\source files\include\level1.h
+	"game.h"
+
+1534403386 source:f:\sdl\game\source files\src\menue.cpp
+	"Menue.h"
+
+1534399503 f:\sdl\game\source files\include\menue.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"PlayButton.h"
+	"game.h"
+
+1534399357 f:\sdl\game\source files\include\playbutton.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1535305567 source:f:\sdl\game\source files\src\monster.cpp
+	"Monster.h"
+
+1535306470 source:f:\sdl\game\source files\src\playbutton.cpp
+	"PlayButton.h"
+
+1535304516 source:f:\sdl\game\source files\src\player.cpp
+	"Player.h"
+
+1534582239 source:f:\sdl\game\source files\src\portal.cpp
+	"Portal.h"
+
+1535305016 source:f:\sdl\game\source files\src\slash.cpp
+	"Slash.h"
+
+1534327948 source:f:\sdl\game\source files\src\wall.cpp
+	"Wall.h"
+
+1536593421 source:f:\sdl\game\source files\main.cpp
+	"game.h"
+	"Menue.h"
+	"level1.h"
+
+1538983660 source:c:\users\asadu\desktop\source files\main.cpp
+	"game.h"
+	"Menue.h"
+	<SDL_mixer.h>
+	"level1.h"
+
+1538199180 c:\users\asadu\desktop\source files\include\game.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	<Player.h>
+	<SDL_mixer.h>
+	"Wall.h"
+	"Monster.h"
+	"Key.h"
+	"Door.h"
+	"Hud.h"
+	"Sound.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\begin_code.h
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\close_code.h
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\asadu\desktop\source files\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519932851 c:\users\asadu\desktop\source files\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1535304879 c:\users\asadu\desktop\source files\include\player.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Gun.h"
+
+1538369375 c:\users\asadu\desktop\source files\include\gun.h
+	"Bullet.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Slash.h"
+	"Sound.h"
+
+1538199465 c:\users\asadu\desktop\source files\include\bullet.h
+	"Portal.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+
+1534235106 c:\users\asadu\desktop\source files\include\portal.h
+	<SDL.h>
+	<SDL_image.h>
+	"../direction.h"
+
+1538369125 c:\users\asadu\desktop\source files\direction.h
+	<bits/stdc++.h>
+	"Sound.h"
+
+1535306550 c:\users\asadu\desktop\source files\include\slash.h
+	"Bullet.h"
+
+1534328040 c:\users\asadu\desktop\source files\include\wall.h
+	<SDL.h>
+	<SDL_image.h>
+	"player.h"
+
+1534347783 c:\users\asadu\desktop\source files\include\monster.h
+	"Gun.h"
+
+1534170171 c:\users\asadu\desktop\source files\include\key.h
+	<SDL.h>
+	<SDL_image.h>
+	"Portal.h"
+
+1534174841 c:\users\asadu\desktop\source files\include\door.h
+	"Player.h"
+
+1534869152 c:\users\asadu\desktop\source files\include\hud.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1454362933 c:\users\asadu\desktop\source files\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1538916017 c:\users\asadu\desktop\source files\include\menue.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"PlayButton.h"
+	"game.h"
+
+1534399357 c:\users\asadu\desktop\source files\include\playbutton.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1534395795 c:\users\asadu\desktop\source files\include\level1.h
+	"game.h"
+
+1538640226 source:c:\users\asadu\desktop\source files\src\bullet.cpp
+	"Bullet.h"
+	<SDL_mixer.h>
+
+1534174618 source:c:\users\asadu\desktop\source files\src\door.cpp
+	"Door.h"
+
+1538369375 source:c:\users\asadu\desktop\source files\src\game.cpp
+	"game.h"
+
+1538199750 source:c:\users\asadu\desktop\source files\src\gun.cpp
+	"Gun.h"
+	<SDL_mixer.h>
+
+1535306486 source:c:\users\asadu\desktop\source files\src\hud.cpp
+	"Hud.h"
+
+1534171436 source:c:\users\asadu\desktop\source files\src\key.cpp
+	"Key.h"
+
+1534402392 source:c:\users\asadu\desktop\source files\src\level1.cpp
+	"Level1.h"
+
+1538916847 source:c:\users\asadu\desktop\source files\src\menue.cpp
+	"Menue.h"
+	<SDL_mixer.h>
+
+1535305567 source:c:\users\asadu\desktop\source files\src\monster.cpp
+	"Monster.h"
+
+1538840236 source:c:\users\asadu\desktop\source files\src\playbutton.cpp
+	"PlayButton.h"
+
+1535304516 source:c:\users\asadu\desktop\source files\src\player.cpp
+	"Player.h"
+
+1534582239 source:c:\users\asadu\desktop\source files\src\portal.cpp
+	"Portal.h"
+
+1535305016 source:c:\users\asadu\desktop\source files\src\slash.cpp
+	"Slash.h"
+
+1534327948 source:c:\users\asadu\desktop\source files\src\wall.cpp
+	"Wall.h"
+
+1508772768 c:\users\asadu\desktop\source files\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1538198280 source:c:\users\asadu\desktop\source files\src\sound.cpp
+	"Sound.h"
+	<SDL_mixer.h>
+	<iostream>
+
+1538640247 c:\users\asadu\desktop\source files\include\sound.h
+	<SDL_mixer.h>
+
+1539095007 source:f:\source files\main.cpp
+	"game.h"
+	"Menue.h"
+	<SDL_mixer.h>
+	"level1.h"
+
+1539095748 f:\source files\include\game.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	<Player.h>
+	<SDL_mixer.h>
+	"Wall.h"
+	"Monster.h"
+	"Key.h"
+	"Door.h"
+	"Hud.h"
+	"Sound.h"
+
+1519922212 f:\source files\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922212 f:\source files\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\begin_code.h
+
+1519922212 f:\source files\include\sdl2\close_code.h
+
+1519922212 f:\source files\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922212 f:\source files\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922212 f:\source files\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922212 f:\source files\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\source files\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519932852 f:\source files\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539095962 f:\source files\include\player.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Gun.h"
+
+1538369376 f:\source files\include\gun.h
+	"Bullet.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Slash.h"
+	"Sound.h"
+
+1538199466 f:\source files\include\bullet.h
+	"Portal.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+
+1534235108 f:\source files\include\portal.h
+	<SDL.h>
+	<SDL_image.h>
+	"../direction.h"
+
+1538369126 f:\source files\direction.h
+	<bits/stdc++.h>
+	"Sound.h"
+
+1538640248 f:\source files\include\sound.h
+	<SDL_mixer.h>
+
+1508772768 f:\source files\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1535306552 f:\source files\include\slash.h
+	"Bullet.h"
+
+1534328042 f:\source files\include\wall.h
+	<SDL.h>
+	<SDL_image.h>
+	"player.h"
+
+1534347784 f:\source files\include\monster.h
+	"Gun.h"
+
+1534170172 f:\source files\include\key.h
+	<SDL.h>
+	<SDL_image.h>
+	"Portal.h"
+
+1534174842 f:\source files\include\door.h
+	"Player.h"
+
+1534869154 f:\source files\include\hud.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1454362934 f:\source files\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1538916018 f:\source files\include\menue.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"PlayButton.h"
+	"game.h"
+
+1534399358 f:\source files\include\playbutton.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1539093729 f:\source files\include\level1.h
+	"game.h"
+
+1538640228 source:f:\source files\src\bullet.cpp
+	"Bullet.h"
+	<SDL_mixer.h>
+
+1534174620 source:f:\source files\src\door.cpp
+	"Door.h"
+
+1539096429 source:f:\source files\src\game.cpp
+	"game.h"
+
+1538199752 source:f:\source files\src\gun.cpp
+	"Gun.h"
+	<SDL_mixer.h>
+
+1535306488 source:f:\source files\src\hud.cpp
+	"Hud.h"
+
+1534171438 source:f:\source files\src\key.cpp
+	"Key.h"
+
+1539095748 source:f:\source files\src\level1.cpp
+	"Level1.h"
+
+1538916848 source:f:\source files\src\menue.cpp
+	"Menue.h"
+	<SDL_mixer.h>
+
+1539095962 source:f:\source files\src\monster.cpp
+	"Monster.h"
+
+1538840238 source:f:\source files\src\playbutton.cpp
+	"PlayButton.h"
+
+1535304518 source:f:\source files\src\player.cpp
+	"Player.h"
+
+1534582240 source:f:\source files\src\portal.cpp
+	"Portal.h"
+
+1535305018 source:f:\source files\src\slash.cpp
+	"Slash.h"
+
+1538198282 source:f:\source files\src\sound.cpp
+	"Sound.h"
+	<SDL_mixer.h>
+	<iostream>
+
+1534327950 source:f:\source files\src\wall.cpp
+	"Wall.h"
+
+1539343576 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\main.cpp
+	"game.h"
+	"Menue.h"
+	<SDL_mixer.h>
+	"level1.h"
+
+1539054096 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\game.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	<Player.h>
+	<SDL_mixer.h>
+	"Wall.h"
+	"Monster.h"
+	"Key.h"
+	"Door.h"
+	"Hud.h"
+	"Sound.h"
+
+1539053948 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053964 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053974 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1539053956 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1539053970 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1539053948 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\begin_code.h
+
+1539053948 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\close_code.h
+
+1539053950 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1539053950 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1539053952 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053958 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053958 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1539053966 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053980 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1539053974 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053956 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053956 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1539053958 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053980 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053970 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053972 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053974 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053952 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1539053962 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053962 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1539053974 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1539053966 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053962 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053960 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053972 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1539053960 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053982 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053960 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053960 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053962 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053964 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053964 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053964 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053972 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053972 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053972 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053976 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053982 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053980 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539053962 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539054118 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\player.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Gun.h"
+
+1539054100 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\gun.h
+	"Bullet.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Slash.h"
+	"Sound.h"
+
+1539054092 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\bullet.h
+	"Portal.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+
+1539054120 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\portal.h
+	<SDL.h>
+	<SDL_image.h>
+	"../direction.h"
+
+1539053898 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\direction.h
+	<bits/stdc++.h>
+	"Sound.h"
+
+1539053924 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sound.h
+	<SDL_mixer.h>
+
+1539053966 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539054122 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\slash.h
+	"Bullet.h"
+
+1539054126 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\wall.h
+	<SDL.h>
+	<SDL_image.h>
+	"player.h"
+
+1539054114 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\monster.h
+	"Gun.h"
+
+1539054104 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\key.h
+	<SDL.h>
+	<SDL_image.h>
+	"Portal.h"
+
+1539054094 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\door.h
+	"Player.h"
+
+1539054102 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\hud.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1539053982 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539054112 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\menue.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"PlayButton.h"
+	"game.h"
+
+1539054116 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\playbutton.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1539054106 c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\include\level1.h
+	"game.h"
+
+1539053924 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\bullet.cpp
+	"Bullet.h"
+	<SDL_mixer.h>
+
+1539053930 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\door.cpp
+	"Door.h"
+
+1539450729 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\game.cpp
+	"game.h"
+
+1539053938 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\gun.cpp
+	"Gun.h"
+	<SDL_mixer.h>
+
+1539053944 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\hud.cpp
+	"Hud.h"
+
+1539053946 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\key.cpp
+	"Key.h"
+
+1539348748 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\level1.cpp
+	"Level1.h"
+
+1539053974 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\menue.cpp
+	"Menue.h"
+	<SDL_mixer.h>
+
+1539053976 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\monster.cpp
+	"Monster.h"
+
+1539053978 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\playbutton.cpp
+	"PlayButton.h"
+
+1539053980 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\player.cpp
+	"Player.h"
+
+1539053982 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\portal.cpp
+	"Portal.h"
+
+1539053984 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\slash.cpp
+	"Slash.h"
+
+1539053892 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\sound.cpp
+	"Sound.h"
+	<SDL_mixer.h>
+	<iostream>
+
+1534357000 source:c:\users\asadu\downloads\compressed\source files-20181009t161350z-001\source files\src\wall.cpp
+	"Wall.h"
+
+1539451206 source:f:\new folder\drive-download-20181014t062424z-001\src\bullet.cpp
+	"Bullet.h"
+	<SDL_mixer.h>
+
+1539451196 f:\new folder\drive-download-20181014t062424z-001\include\bullet.h
+	"Portal.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+
+1539451200 f:\new folder\drive-download-20181014t062424z-001\include\portal.h
+	<SDL.h>
+	<SDL_image.h>
+	"../direction.h"
+
+1539451224 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451230 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451236 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1539451226 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1539451234 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1539451222 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\begin_code.h
+
+1539451224 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\close_code.h
+
+1539451222 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1539451222 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1539451224 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451226 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451226 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1539451230 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451240 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1539451236 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451226 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451226 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1539451228 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451240 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451234 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451234 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451236 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451224 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1539451230 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451230 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1539451236 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1539451230 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451228 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451228 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451234 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1539451228 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451240 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451228 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451228 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451228 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451228 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451230 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451230 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451234 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451236 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451236 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451238 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451240 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451242 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451230 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451160 f:\new folder\drive-download-20181014t062424z-001\direction.h
+	<bits/stdc++.h>
+	"Sound.h"
+
+1539451200 f:\new folder\drive-download-20181014t062424z-001\include\sound.h
+	<SDL_mixer.h>
+
+1539451232 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451206 source:f:\new folder\drive-download-20181014t062424z-001\src\door.cpp
+	"Door.h"
+
+1539451196 f:\new folder\drive-download-20181014t062424z-001\include\door.h
+	"Player.h"
+
+1539451198 f:\new folder\drive-download-20181014t062424z-001\include\player.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Gun.h"
+
+1539451196 f:\new folder\drive-download-20181014t062424z-001\include\gun.h
+	"Bullet.h"
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	"Slash.h"
+	"Sound.h"
+
+1539451200 f:\new folder\drive-download-20181014t062424z-001\include\slash.h
+	"Bullet.h"
+
+1539451206 source:f:\new folder\drive-download-20181014t062424z-001\src\game.cpp
+	"game.h"
+
+1539451196 f:\new folder\drive-download-20181014t062424z-001\include\game.h
+	<bits/stdc++.h>
+	<sdl.h>
+	<SDL_image.h>
+	<Player.h>
+	<SDL_mixer.h>
+	"Wall.h"
+	"Monster.h"
+	"Key.h"
+	"Door.h"
+	"Hud.h"
+	"Sound.h"
+
+1539451200 f:\new folder\drive-download-20181014t062424z-001\include\wall.h
+	<SDL.h>
+	<SDL_image.h>
+	"player.h"
+
+1539451200 f:\new folder\drive-download-20181014t062424z-001\include\monster.h
+	"Gun.h"
+
+1539451198 f:\new folder\drive-download-20181014t062424z-001\include\key.h
+	<SDL.h>
+	<SDL_image.h>
+	"Portal.h"
+
+1539451196 f:\new folder\drive-download-20181014t062424z-001\include\hud.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1539451242 f:\new folder\drive-download-20181014t062424z-001\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\gun.cpp
+	"Gun.h"
+	<SDL_mixer.h>
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\hud.cpp
+	"Hud.h"
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\key.cpp
+	"Key.h"
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\level1.cpp
+	"Level1.h"
+
+1539451198 f:\new folder\drive-download-20181014t062424z-001\include\level1.h
+	"game.h"
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\menue.cpp
+	"Menue.h"
+	<SDL_mixer.h>
+
+1539451200 f:\new folder\drive-download-20181014t062424z-001\include\menue.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"PlayButton.h"
+	"game.h"
+
+1539451200 f:\new folder\drive-download-20181014t062424z-001\include\playbutton.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1539499673 source:f:\new folder\drive-download-20181014t062424z-001\src\monster.cpp
+	"Monster.h"
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\playbutton.cpp
+	"PlayButton.h"
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\player.cpp
+	"Player.h"
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\portal.cpp
+	"Portal.h"
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\slash.cpp
+	"Slash.h"
+
+1539451208 source:f:\new folder\drive-download-20181014t062424z-001\src\sound.cpp
+	"Sound.h"
+	<SDL_mixer.h>
+	<iostream>
+
+1539451210 source:f:\new folder\drive-download-20181014t062424z-001\src\wall.cpp
+	"Wall.h"
+
+1539499046 source:f:\new folder\drive-download-20181014t062424z-001\main.cpp
+	"game.h"
+	"Menue.h"
+	<SDL_mixer.h>
+	"level1.h"
+

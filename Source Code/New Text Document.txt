@@ -1,0 +1,50 @@
+                    damageBuffer*dmg=new damageBuffer;
+                    dmg->player=true;
+                    damage.push_back(dmg);
+                    damageBuffer*dmg1=new damageBuffer;
+                    dmg1->player=true;
+                    damage.push_back(dmg1);
+                    damageBuffer*dmg2=new damageBuffer;
+                    dmg2->player=true;
+                    damage.push_back(dmg2);
+                    damageBuffer*dmg3=new damageBuffer;
+                    dmg3->player=true;
+                    damage.push_back(dmg3);
+                    damageBuffer*dmg4=new damageBuffer;
+                    dmg4->player=true;
+                    damage.push_back(dmg4);
+
+
+
+
+for(auto i:Map)
+    {
+        if((i->x1)<(pos.x+x+w)&&(i->y1)<(pos.y+y+h)&&(i->x2)>(pos.x+x+w)&&(i->y2)>(pos.y+y+h))
+        {
+
+                if(dir==up)dir=down;
+                else if(dir==down)dir=up;
+                else if(dir==left)dir=right;
+                else if(dir==right)dir=left;
+                return;
+        }
+        else if((i->x1)<(pos.x+x+w1)&&(i->y1)<(pos.y+y+h1)&&(i->x2)>(pos.x+x+w1)&&(i->y2)>(pos.y+y+h1))
+        {
+
+                if(dir==up)dir=down;
+                else if(dir==down)dir=up;
+                else if(dir==left)dir=right;
+                else if(dir==right)dir=left;
+                return;
+        }
+        else if((i->x1)<(pos.x+x+w2)&&(i->y1)<(pos.y+y+h2)&&(i->x2)>(pos.x+x+w2)&&(i->y2)>(pos.y+y+h2))
+        {
+
+
+                if(dir==up)dir=down;
+                else if(dir==down)dir=up;
+                else if(dir==left)dir=right;
+                else if(dir==right)dir=left;
+                return;
+        }
+    }
